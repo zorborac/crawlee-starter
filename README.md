@@ -36,3 +36,5 @@ npm start
 ```
 
 The above will run the default, you could change variables in the repo.
+NOTE: the default defaults to a site I own, please change things as you'd like if you don't feel like boosting the user numbers. 
+
